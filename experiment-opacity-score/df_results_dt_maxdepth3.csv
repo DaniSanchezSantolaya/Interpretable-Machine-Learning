@@ -1,0 +1,2 @@
+max_depth,model_name,auc_train,auc_test,mean_trace,median_trace,trace_norm,mean_max_eig,median_max_eig,mean_explanation_fit,median_explanation_fit
+3,DT - 3,0.769,0.753,0.06102699287778197,0.06102699287778197,0.0030513496438890984,0.028333855042091433,0.028333855042091433,0.18661832435582576,0.18661832435582576
